@@ -2,7 +2,10 @@ function ContactUs(props) {
 
     return (
         <div className="body">
-            <p>HMU</p>
+            <p/>
+            <p>Phone:</p>
+            <p>Email:</p>
+            <p>Hours:</p>
         </div>
     );
 
